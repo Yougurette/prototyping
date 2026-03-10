@@ -1,5 +1,5 @@
 /*
-  Endless Button v2 (Depth Illusion) - p5.js
+  Endless Button v2 (Depth Illusion) - p5.js [sketch2]
   --------------------------------------------------------
   Beginner-friendly sketch:
   - One button starts in the center.
